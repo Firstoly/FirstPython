@@ -1,0 +1,6 @@
+name = input('Emter full name : ')
+name1,name2 = name.split()
+print ('Your name : ',name)
+print ('Lower name : ',name1.lower())
+print ('Upper name : ',name1.upper())
+print ('Capitalize name : ',name1.capitalize())
