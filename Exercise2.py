@@ -1,0 +1,11 @@
+print ('>> Prigrame Find Maximum Digit <<')
+number1 = str(input('Enter number 1 : ')) 
+number2 = str(input('Enter number 2 : ')) 
+number3 = str(input('Enter number 3 : ')) 
+number4 = str(input('Enter number 4 : ')) 
+number5 = str(input('Enter number 5 : ')) 
+sum = number1,number2,number3,number4,number5
+Max = max(sum) 
+print()
+print('Tour enter number ',number1,number2,number3,number4,number5)
+print('Maximum number is ',Max)
